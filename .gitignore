@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+.vs
+/api-publish
+bin
+obj
+/DevOpsManager.WindowsApp/AppPackages
+/DevOpsWatch.WindowsApp/AppPackages
+/DevOpsWatch.WindowsApp/BundleArtifacts
